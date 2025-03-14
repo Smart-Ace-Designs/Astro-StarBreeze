@@ -109,7 +109,7 @@ function New-AstroProject
 ```
 
 ```sh
-New-AstroProject -ProjectName project-name -Location project-parent-folder -Template astro-starbreeze
+New-AstroProject -ProjectName project-name -Location parent-folder -Template astro-starbreeze
 ```
 
 ## Add `Starwind UI` Component
