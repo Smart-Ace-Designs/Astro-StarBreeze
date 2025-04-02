@@ -12,6 +12,7 @@ The template includes:
 - Astro [Import Aliases](https://docs.astro.build/en/guides/typescript/#import-aliases)
 - A default _MainLayout.astro_ layout file
 - A default _starwind.css_ file (required for Starwind UI)
+- A default _starwind.config.json_ file with `neutral` base color (required for Starwind UI)
 - Default _.vscode_ files to properly handle Tailwind CSS, recommended extensions, and default Prettier formatters
 - A blank _index.astro_ page (empty "space")
 - The `dev` script set to `"astro dev --open"`
