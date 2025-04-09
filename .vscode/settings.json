@@ -3,9 +3,6 @@
     "*.css": "tailwindcss",
     "*.scss": "tailwindcss"
   },
-  "tailwindCSS.experimental.classRegex": [
-    ["([\"'`][^\"'`]*.*?[\"'`])", "[\"'`]([^\"'`]*).*?[\"'`]"]
-  ],
   "[astro]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
