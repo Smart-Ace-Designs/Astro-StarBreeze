@@ -6,7 +6,7 @@ Using `bunx create-astro@latest` or `npx create-astro@latest` provides everythin
 
 The template includes:
 - [Starwind UI](https://starwind.dev/)
-- [Tailwind CSS v4.0](https://tailwindcss.com/)
+- [Tailwind CSS v4.1](https://tailwindcss.com/)
 - [Prettier](https://prettier.io/)
 - Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/)
 - Astro [Import Aliases](https://docs.astro.build/en/guides/typescript/#import-aliases)
@@ -48,6 +48,7 @@ function New-AstroProject
         [Parameter(Mandatory = $true)] [string]$Location,
         [Parameter(Mandatory = $true)] [ValidateSet(
             "astro-major-tom",
+            "astro-marsrover",
             "astro-moonbase",
             "astro-space",
             "astro-starbreeze"
