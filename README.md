@@ -127,6 +127,7 @@ function New-AstroProject
 ```sh
 New-AstroProject -ProjectName project-name -Location parent-folder -Template astro-starbreeze
 ```
+https://github.com/user-attachments/assets/083b5621-8891-44b0-b3c5-4b9ebd70f7d3
 
 ## Add `Starwind UI` Component
 To add a Starwind UI component to your project (example: [Button](https://starwind.dev/docs/components/button/)):
