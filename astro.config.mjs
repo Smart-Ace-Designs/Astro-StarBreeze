@@ -9,7 +9,4 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   integrations: [],
-  experimental: {
-    svg: true,
-  },  
 });
