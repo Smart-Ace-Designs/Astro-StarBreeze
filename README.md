@@ -45,16 +45,12 @@ New-AstroProject -ProjectName project-name -Location parent-folder -Template ast
 
 https://github.com/user-attachments/assets/083b5621-8891-44b0-b3c5-4b9ebd70f7d3
 
-## Add `Starwind UI` Component
-To add a Starwind UI component to your project (example: [Button](https://starwind.dev/docs/components/button/)):
-### bun
-```sh
-bunx starwind@latest add button
-```
-### npm
-```sh
-npx starwind@latest add button
-```
+## Using [Starwind UI](https://starwind.dev/) Components
+- To add a Starwind UI component to your Astro project:
+[Starwind UI CLI](https://starwind.dev/docs/getting-started/cli/#add)
+
+- To import a Starwind UI component into an Astro file:
+[Starwind UI Import Pattern](https://starwind.dev/docs/components/#import-pattern)
 
 ## Project Structure
 
