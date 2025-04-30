@@ -1,8 +1,7 @@
 # Astro Template: Star Breeze
-
 Astro **Star Breeze** is an opinionated Astro 5 starter template with built-in support for Starwind UI, Tailwind CSS, Prettier, view transitions, and import aliases and includes a blank default "index.astro" page.
 
-Using `create-astro@latest` provides everything you need to create a basic Astro application. However, it is missing a few useful items that you might find yourself manually adding to every new Astro project. The **Star Breeze** template was created to automatically include these items as well as support for Starwind UI. This provides a great starting point for a brand new Astro project with Tailwind and Starwind UI.
+Using `create-astro@latest` provides everything you need to create a basic Astro application. However, it is missing a few useful items that you might find yourself manually adding to every new Astro project. The **Star Breeze** template was created to automatically include these items as well as support for Starwind UI. This provides a great starting point for a new Astro project with Tailwind and Starwind UI.
 
 The template includes:
 - An initial Astro project structure
@@ -62,7 +61,6 @@ https://github.com/user-attachments/assets/083b5621-8891-44b0-b3c5-4b9ebd70f7d3
 [Starwind UI Import Pattern](https://starwind.dev/docs/components/#import-pattern)
 
 ## Project Structure
-
 After deploying the Astro **Star Breeze** template you will see the following files and directories in your project root:
 
 ```text
