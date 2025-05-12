@@ -66,17 +66,17 @@ After deploying the Astro **Star Breeze** template you will see the following fi
 ```text
 /
 ├── .vscode/
-│       └── extensions.json
-│       └── launch.json
-│       └── settings.json
+│   ├── extensions.json
+│   ├── launch.json
+│   └── settings.json
 ├── public/
-│       └── favicon.svg
+│   └── favicon.svg
 ├── src/
-|   ├── layouts/
-│       └── MainLayout.astro
+│   ├── layouts/
+│   │   └── MainLayout.astro
 │   ├── pages/
-│       └── index.astro
-|   ├── styles/
+│   │   └── index.astro
+│   └── styles/
 │       └── starwind.css
 ├── .gitignore
 ├── .prettierrc.mjs
