@@ -15,7 +15,7 @@
     "astro": "^5.12.9",
     "tailwind-variants": "^1.0.0",
     "tailwindcss": "^4.1.11",
-    "tw-animate-css": "^1.3.5"
+    "tw-animate-css": "^1.3.6"
   },
   "devDependencies": {
     "prettier": "^3.6.2",
