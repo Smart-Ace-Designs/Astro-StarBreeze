@@ -1,13 +1,13 @@
 <!-- ASTRO:REMOVE:START -->
 # Astro Template: Star Breeze
-Astro **Star Breeze** is an opinionated Astro 5 starter template with built-in support for Starwind UI, Tailwind CSS, Prettier, view transitions, and import aliases and includes a blank default "index.astro" page.
+Astro **Star Breeze** is an opinionated Astro 5 starter template with built-in support for Starwind UI, Tailwind CSS, Prettier, view transitions, and aliases and includes a blank default "index.astro" page.
 
 Using `create-astro@latest` provides everything you need to create a basic Astro application. However, it is missing a few useful items that you might find yourself manually adding to every new Astro project. The **Star Breeze** template was created to automatically include these items as well as support for Starwind UI. This provides a great starting point for a new Astro project with Tailwind and Starwind UI.
 
 The template includes:
 - An initial Astro project structure
 - Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/)
-- Astro [Import Aliases](https://docs.astro.build/en/guides/typescript/#import-aliases)
+- Astro [Aliases](https://docs.astro.build/en/guides/typescript/#import-aliases)
 - [Starwind UI](https://starwind.dev/)
 - [Tailwind CSS v4.1](https://tailwindcss.com/)
 - [Prettier](https://prettier.io/)
