@@ -1,10 +1,13 @@
 <!-- ASTRO:REMOVE:START -->
+
 # Astro Template: Star Breeze
+
 Astro **Star Breeze** is an opinionated Astro 5 starter template with built-in support for Starwind UI, Tailwind CSS, Prettier, view transitions, and aliases.
 
 Using `create astro@latest` provides everything you need to create a basic Astro application. However, it is missing a few useful items that you might find yourself manually adding to every new Astro 5 project. The **Star Breeze** template was created to automatically include these items as well as support for Starwind UI. This provides a great starting point for a new Astro 5 project with Tailwind and Starwind UI.
 
 The template includes:
+
 - An initial Astro project structure
 - Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/)
 - Astro [Aliases](https://docs.astro.build/en/guides/imports/#aliases)
@@ -19,6 +22,7 @@ The template includes:
 - The `dev` script set to `"astro dev --open"`
 
 An optional [PowerShell function](https://github.com/Smart-Ace-Designs/SmartAceDesigns.AstroLiftoff) (standalone or as part of a PowerShell module) is available to deploy the above template and provide the following additional functionality:
+
 - Creates additional empty directories: _assets_ and _components_
 - Runs the `prettier` CLI to provide an intial format of all project files
 - Initializes a _Git_ repository
@@ -27,23 +31,33 @@ An optional [PowerShell function](https://github.com/Smart-Ace-Designs/SmartAceD
 - Provides an option to launch the site and/or open the project directory with VS Code post deployment
 
 ## Deployment Methods
+
 ### npm
+
 ```sh
 npm create astro@latest -- --template smart-ace-designs/astro-starbreeze project-name
 ```
+
 ### bun
+
 ```sh
 bun create astro@latest -- --template smart-ace-designs/astro-starbreeze project-name
 ```
+
 ### pnpm
+
 ```sh
 pnpm create astro@latest --template smart-ace-designs/astro-starbreeze project-name
 ```
+
 ### yarn
+
 ```sh
 yarn create astro@latest --template smart-ace-designs/astro-starbreeze project-name
 ```
+
 ### PowerShell
+
 The optional PowerShell function and module are available here:
 [SmartAceDesigns.AstroLiftoff](https://github.com/Smart-Ace-Designs/SmartAceDesigns.AstroLiftoff)
 
@@ -54,13 +68,15 @@ New-AstroProject -ProjectName project-name -Location parent-directory -Template 
 https://github.com/user-attachments/assets/9b5ef2ce-9fab-4fa4-a887-4332380153dd
 
 ## Using [Starwind UI](https://starwind.dev/) Components
+
 - To add a Starwind UI component to your Astro project:
-[Starwind UI CLI](https://starwind.dev/docs/getting-started/cli/#add)
+  [Starwind UI CLI](https://starwind.dev/docs/getting-started/cli/#add)
 
 - To import a Starwind UI component into an Astro file:
-[Starwind UI Import Pattern](https://starwind.dev/docs/components/#import-pattern)
+  [Starwind UI Import Pattern](https://starwind.dev/docs/components/#import-pattern)
 
 ## Project Structure
+
 After deploying the Astro **Star Breeze** template you will see the following files and directories in your project root:
 
 ```text
@@ -95,4 +111,5 @@ The optional `New-AstroProject` PowerShell function will add these additional di
     ├── assets/
     └── components/
 ```
+
 <!-- ASTRO:REMOVE:END -->
