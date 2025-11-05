@@ -95,6 +95,7 @@ After deploying the Astro **Star Breeze** template you will see the following fi
 │   └── styles/
 │       └── starwind.css
 ├── .gitignore
+├── .prettierignore
 ├── .prettierrc.mjs
 ├── astro.config.mjs
 ├── package.json
