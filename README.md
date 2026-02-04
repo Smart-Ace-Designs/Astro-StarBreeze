@@ -65,7 +65,7 @@ The optional PowerShell function and module are available here:
 New-AstroProject -ProjectName project-name -Location parent-directory -Template astro-starbreeze
 ```
 
-https://github.com/user-attachments/assets/9b5ef2ce-9fab-4fa4-a887-4332380153dd
+https://github.com/user-attachments/assets/8c9d90bd-cb83-40c3-a147-3931ab0a31f8
 
 ## Using [Starwind UI](https://starwind.dev/) Components
 
