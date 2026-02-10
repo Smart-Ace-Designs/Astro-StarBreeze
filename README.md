@@ -17,6 +17,7 @@ The template includes:
 - A default _MainLayout.astro_ layout file
 - A default _starwind.css_ file
 - A default _starwind.config.json_ file with `neutral` base color
+- A default _starwind.code-snippets_ VS Code compatible editor project level snippets file
 - Default _.vscode_ files to properly handle Tailwind CSS, recommended extensions, and default Prettier formatters
 - A blank _index.astro_ page
 - The `dev` script set to `"astro dev --open"`
@@ -75,6 +76,8 @@ https://github.com/user-attachments/assets/8c9d90bd-cb83-40c3-a147-3931ab0a31f8
 - To import a Starwind UI component into an Astro file:
   [Starwind UI Import Pattern](https://starwind.dev/docs/components/#import-pattern)
 
+- To use a Starwind UI snippet in an Astro file with a VS Code compatible editor: begin typing `starwind`
+
 ## Project Structure
 
 After deploying the Astro **Star Breeze** template you will see the following files and directories in your project root:
@@ -84,7 +87,8 @@ After deploying the Astro **Star Breeze** template you will see the following fi
 ├── .vscode/
 │   ├── extensions.json
 │   ├── launch.json
-│   └── settings.json
+│   ├── settings.json
+│   └── starwind.code-snippets
 ├── public/
 │   └── favicon.svg
 ├── src/
