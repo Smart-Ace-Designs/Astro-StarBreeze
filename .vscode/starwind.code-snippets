@@ -32,252 +32,294 @@
       "</script>",
     ],
   },
+
   "Starwind UI Accordion Import": {
     "scope": "typescript",
     "prefix": "starwind-accordion-import",
     "description": "Starwind UI accordion import",
     "body": "import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from \"@/components/starwind/accordion\";",
   },
+
   "Starwind UI Alert Import": {
     "scope": "typescript",
     "prefix": "starwind-alert-import",
     "description": "Starwind UI alert import",
     "body": "import { Alert, AlertDescription, AlertTitle } from \"@/components/starwind/alert\";",
   },
+
   "Starwind UI Alert Dialog Import": {
     "scope": "typescript",
     "prefix": "starwind-alert-dialog-import",
     "description": "Starwind UI alert dialog import",
     "body": "import { AlertDialog, AlertDialogTrigger, AlertDialogContent, AlertDialogHeader, AlertDialogFooter, AlertDialogTitle, AlertDialogDescription, AlertDialogCancel, AlertDialogAction } from \"@/components/starwind/alert-dialog\";",
   },
+
   "Starwind UI Aspect Ratio Import": {
     "scope": "typescript",
     "prefix": "starwind-aspect-ratio-import",
     "description": "Starwind UI aspect ratio import",
     "body": "import { AspectRatio } from \"@/components/starwind/aspect-ratio\";",
   },
+
   "Starwind UI Avatar Import": {
     "scope": "typescript",
     "prefix": "starwind-avatar-import",
     "description": "Starwind UI avatar import",
     "body": "import { Avatar, AvatarImage, AvatarFallback } from \"@/components/starwind/avatar\";",
   },
+
   "Starwind UI Badge Import": {
     "scope": "typescript",
     "prefix": "starwind-badge-import",
     "description": "Starwind UI badge import",
     "body": "import { Badge } from \"@/components/starwind/badge\";",
   },
+
   "Starwind UI Breadcrumb Import": {
     "scope": "typescript",
     "prefix": "starwind-breadcrumb-import",
     "description": "Starwind UI breadcrumb import",
     "body": "import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator, BreadcrumbEllipsis } from \"@/components/starwind/breadcrumb\";",
   },
+
   "Starwind UI Button Import": {
     "scope": "typescript",
     "prefix": "starwind-button-import",
     "description": "Starwind UI button import",
     "body": "import { Button } from \"@/components/starwind/button\";",
   },
+
   "Starwind UI Button Group Import": {
     "scope": "typescript",
     "prefix": "starwind-button-group-import",
     "description": "Starwind UI button group import",
     "body": "import { ButtonGroup, ButtonGroupSeparator, ButtonGroupText } from \"@/components/starwind/button-group\";",
   },
+
   "Starwind UI Card Import": {
     "scope": "typescript",
     "prefix": "starwind-card-import",
     "description": "Starwind UI card import",
     "body": "import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from \"@/components/starwind/card\";",
   },
+
   "Starwind UI Carousel Import": {
     "scope": "typescript",
     "prefix": "starwind-carousel-import",
     "description": "Starwind UI carousel import",
     "body": "import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from \"@/components/starwind/carousel\";",
   },
+
   "Starwind UI Checkbox Import": {
     "scope": "typescript",
     "prefix": "starwind-checkbox-import",
     "description": "Starwind UI checkbox import",
     "body": "import { Checkbox } from \"@/components/starwind/checkbox\";",
   },
+
   "Starwind UI Collapsible Import": {
     "scope": "typescript",
     "prefix": "starwind-collapsible-import",
     "description": "Starwind UI collapsible import",
     "body": "import { Collapsible, CollapsibleTrigger, CollapsibleContent } from \"@/components/starwind/collapsible\";",
   },
+
   "Starwind UI Combobox Import": {
     "scope": "typescript",
     "prefix": "starwind-combobox-import",
     "description": "Starwind UI combobox import",
     "body": "import { Select, SelectContent, SelectGroup, SelectItem, SelectSearch, SelectTrigger, SelectValue } from \"@/components/starwind/select\";",
   },
+
   "Starwind UI Dialog Import": {
     "scope": "typescript",
     "prefix": "starwind-dialog-import",
     "description": "Starwind UI dialog import",
     "body": "import { Dialog, DialogTrigger, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter, DialogClose } from \"@/components/starwind/dialog\";",
   },
+
   "Starwind UI Dropdown Import": {
     "scope": "typescript",
     "prefix": "starwind-dropdown-import",
     "description": "Starwind UI dropdown import",
     "body": "import { Dropdown, DropdownTrigger, DropdownContent, DropdownItem, DropdownLabel, DropdownSeparator } from \"@/components/starwind/dropdown\";",
   },
+
   "Starwind UI Dropzone Import": {
     "scope": "typescript",
     "prefix": "starwind-dropzone-import",
     "description": "Starwind UI dropzone import",
     "body": "import { Dropzone, DropzoneFilesList, DropzoneLoadingIndicator, DropzoneUploadIndicator } from \"@/components/starwind/dropzone\";",
   },
+
   "Starwind UI Image Import": {
     "scope": "typescript",
     "prefix": "starwind-image-import",
     "description": "Starwind UI image import",
     "body": "import { Image } from \"@/components/starwind/image\";",
   },
+
   "Starwind UI Input Import": {
     "scope": "typescript",
     "prefix": "starwind-input-import",
     "description": "Starwind UI input import",
     "body": "import { Input } from \"@/components/starwind/input\";",
   },
+
   "Starwind UI Input OTP Import": {
     "scope": "typescript",
     "prefix": "starwind-input-otp-import",
     "description": "Starwind UI input OTP import",
     "body": "import { InputOtp, InputOtpGroup, InputOtpSlot, InputOtpSeparator, REGEXP_ONLY_DIGITS_AND_CHARS } from \"@/components/starwind/input-otp\";",
   },
+
   "Starwind UI Item Import": {
     "scope": "typescript",
     "prefix": "starwind-item-import",
     "description": "Starwind UI item import",
     "body": "import { Item, ItemContent, ItemTitle, ItemDescription, ItemActions, ItemMedia, ItemHeader, ItemFooter, ItemGroup, ItemSeparator } from \"@/components/starwind/item\";",
   },
+
   "Starwind UI Label Import": {
     "scope": "typescript",
     "prefix": "starwind-label-import",
     "description": "Starwind UI label import",
     "body": "import { Label } from \"@/components/starwind/label\";",
   },
+
   "Starwind UI Pagination Import": {
     "scope": "typescript",
     "prefix": "starwind-pagination-import",
     "description": "Starwind UI pagination import",
     "body": "import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationPrevious, PaginationNext, PaginationEllipsis } from \"@/components/starwind/pagination\";",
   },
+
   "Starwind UI Progress Import": {
     "scope": "typescript",
     "prefix": "starwind-progress-import",
     "description": "Starwind UI progress import",
     "body": "import { Progress } from \"@/components/starwind/progress\";",
   },
+
   "Starwind UI Prose Import": {
     "scope": "typescript",
     "prefix": "starwind-prose-import",
     "description": "Starwind UI prose import",
     "body": "import { Prose } from \"@/components/starwind/prose\";",
   },
+
   "Starwind UI Radio Group Import": {
     "scope": "typescript",
     "prefix": "starwind-radio-group-import",
     "description": "Starwind UI radio group import",
     "body": "import { RadioGroup, RadioGroupItem } from \"@/components/starwind/radio-group\";",
   },
+
   "Starwind UI Select Import": {
     "scope": "typescript",
     "prefix": "starwind-select-import",
     "description": "Starwind UI select import",
     "body": "import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem, SelectGroup, SelectLabel, SelectSeparator } from \"@/components/starwind/select\";",
   },
+
   "Starwind UI Separator Import": {
     "scope": "typescript",
     "prefix": "starwind-separator-import",
     "description": "Starwind UI separator import",
     "body": "import { Separator } from \"@/components/starwind/separator\";",
   },
+
   "Starwind UI Sheet Import": {
     "scope": "typescript",
     "prefix": "starwind-sheet-import",
     "description": "Starwind UI sheet import",
     "body": "import { Sheet, SheetTrigger, SheetContent, SheetHeader, SheetTitle, SheetDescription, SheetFooter, SheetClose } from \"@/components/starwind/sheet\";",
   },
+
   "Starwind UI Sidebar Import": {
     "scope": "typescript",
     "prefix": "starwind-sidebar-import",
     "description": "Starwind UI sidebar import",
     "body": "import { Sidebar, SidebarProvider, SidebarContent, SidebarHeader, SidebarFooter, SidebarGroup, SidebarGroupLabel, SidebarGroupContent, SidebarMenu, SidebarMenuItem, SidebarMenuButton, SidebarTrigger } from \"@/components/starwind/sidebar\";",
   },
+
   "Starwind UI Skeleton Import": {
     "scope": "typescript",
     "prefix": "starwind-skeleton-import",
     "description": "Starwind UI skeleton import",
     "body": "import { Skeleton } from \"@/components/starwind/skeleton\";",
   },
+
   "Starwind UI Slider Import": {
     "scope": "typescript",
     "prefix": "starwind-slider-import",
     "description": "Starwind UI slider import",
     "body": "import { Slider } from \"@/components/starwind/slider\";",
   },
+
   "Starwind UI Spinner Import": {
     "scope": "typescript",
     "prefix": "starwind-spinner-import",
     "description": "Starwind UI spinner import",
     "body": "import { Spinner } from \"@/components/starwind/spinner\";",
   },
+
   "Starwind UI Switch Import": {
     "scope": "typescript",
     "prefix": "starwind-switch-import",
     "description": "Starwind UI switch import",
     "body": "import { Switch } from \"@/components/starwind/switch\";",
   },
+
   "Starwind UI Table Import": {
     "scope": "typescript",
     "prefix": "starwind-table-import",
     "description": "Starwind UI table import",
     "body": "import { Table, TableHeader, TableHead, TableBody, TableRow, TableCell, TableCaption, TableFoot } from \"@/components/starwind/table\";",
   },
+
   "Starwind UI Tabs Import": {
     "scope": "typescript",
     "prefix": "starwind-tabs-import",
     "description": "Starwind UI tabs import",
     "body": "import { Tabs, TabsList, TabsTrigger, TabsContent } from \"@/components/starwind/tabs\";",
   },
+
   "Starwind UI Textarea Import": {
     "scope": "typescript",
     "prefix": "starwind-textarea-import",
     "description": "Starwind UI textarea import",
     "body": "import { Textarea } from \"@/components/starwind/textarea\";",
   },
+
   "Starwind UI Theme Toggle Import": {
     "scope": "typescript",
     "prefix": "starwind-theme-toggle-import",
     "description": "Starwind UI theme toggle import",
     "body": "import { ThemeToggle } from \"@/components/starwind/theme-toggle\";",
   },
+
   "Starwind UI Toast Import": {
     "scope": "typescript",
     "prefix": "starwind-toast-import",
     "description": "Starwind UI toast import",
-    "body": "import { toast, Toaster } from \"@/components/starwind/toast\";",
+    "body": "import { Toaster } from \"@/components/starwind/toast\";",
   },
+
   "Starwind UI Toggle Import": {
     "scope": "typescript",
     "prefix": "starwind-toggle-import",
     "description": "Starwind UI toggle import",
     "body": "import { Toggle } from \"@/components/starwind/toggle\";",
   },
+
   "Starwind UI Tooltip Import": {
     "scope": "typescript",
     "prefix": "starwind-tooltip-import",
     "description": "Starwind UI tooltip import",
     "body": "import { Tooltip, TooltipTrigger, TooltipContent } from \"@/components/starwind/tooltip\";",
   },
+  
   "Starwind UI Video Import": {
     "scope": "typescript",
     "prefix": "starwind-video-import",
