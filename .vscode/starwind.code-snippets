@@ -171,6 +171,7 @@
     "body": "import { Label } from \"@/components/starwind/label\";",
   },
   "Starwind UI Native Select Import": {
+    "scope": "typescript",
     "prefix": "starwind-native-select-import",
     "description": "Starwind UI native select import",
     "body": "import { NativeSelect, NativeSelectOption } from \"@/components/starwind/native-select\";",
@@ -182,6 +183,7 @@
     "body": "import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationPrevious, PaginationNext, PaginationEllipsis } from \"@/components/starwind/pagination\";",
   },
   "Starwind UI Popover Import": {
+    "scope": "typescript",
     "prefix": "starwind-popover-import",
     "description": "Starwind UI popover import",
     "body": "import { Popover, PopoverContent, PopoverDescription, PopoverHeader, PopoverTitle, PopoverTrigger} from \"@/components/starwind/popover\";",
