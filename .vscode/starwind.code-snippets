@@ -126,7 +126,7 @@
     "scope": "typescript",
     "prefix": "starwind-dropdown-import",
     "description": "Starwind UI dropdown import",
-    "body": "import { Dropdown, DropdownTrigger, DropdownContent, DropdownItem, DropdownLabel, DropdownSeparator } from \"@/components/starwind/dropdown\";",
+    "body": "import { Dropdown, DropdownContent, DropdownItem, DropdownLabel, DropdownSeparator, DropdownShortcut, DropdownSub, DropdownSubContent, DropdownSubTrigger, DropdownTrigger } from \"@/components/starwind/dropdown\";",
   },
   "Starwind UI Dropzone Import": {
     "scope": "typescript",
