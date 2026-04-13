@@ -12,7 +12,7 @@ The template includes:
 - Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/)
 - Astro [Aliases](https://docs.astro.build/en/guides/imports/#aliases)
 - [Starwind UI](https://starwind.dev/)
-- [Tailwind CSS v4.2](https://tailwindcss.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Prettier](https://prettier.io/)
 - A default _MainLayout.astro_ layout file
 - A default _starwind.css_ file
