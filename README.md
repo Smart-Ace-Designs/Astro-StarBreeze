@@ -22,15 +22,6 @@ The template includes:
 - A blank _index.astro_ page
 - The `dev` script set to `"astro dev --open"`
 
-An optional [PowerShell function](https://github.com/Smart-Ace-Designs/SmartAceDesigns.AstroLiftoff) (standalone or as part of a PowerShell module) is available to deploy the above template and provide the following additional functionality:
-
-- Creates additional empty directories: _assets_ and _components_
-- Runs the `prettier` CLI to provide an intial format of all project files
-- Initializes a _Git_ repository
-- Automatically navigates to the project directory and peforms an initial install
-- Runs `astro update` to update the core Astro packages to the latest versions and runs your preferred package manager (npm or bun) to update the other packages
-- Provides an option to launch the site and/or open the project directory with VS Code post deployment
-
 ## Deployment Methods
 
 ### npm
@@ -56,17 +47,6 @@ pnpm create astro@latest --template smart-ace-designs/astro-starbreeze project-n
 ```sh
 yarn create astro@latest --template smart-ace-designs/astro-starbreeze project-name
 ```
-
-### PowerShell
-
-The optional PowerShell function and module are available here:
-[SmartAceDesigns.AstroLiftoff](https://github.com/Smart-Ace-Designs/SmartAceDesigns.AstroLiftoff)
-
-```sh
-New-AstroProject -ProjectName project-name -Location parent-directory -Template astro-starbreeze
-```
-
-https://github.com/user-attachments/assets/8c9d90bd-cb83-40c3-a147-3931ab0a31f8
 
 ## Using [Starwind UI](https://starwind.dev/) Components
 
@@ -106,15 +86,6 @@ After deploying the Astro **Star Breeze** template you will see the following fi
 ├── README.md
 ├── starwind.config.json
 └── tsconfig.json
-```
-
-The optional `New-AstroProject` PowerShell function will add these additional directories to your project root:
-
-```text
-/
-└── src/
-    ├── assets/
-    └── components/
 ```
 
 <!-- ASTRO:REMOVE:END -->
