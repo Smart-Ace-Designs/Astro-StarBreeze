@@ -110,11 +110,23 @@
     "description": "Starwind UI collapsible import",
     "body": "import { Collapsible, CollapsibleTrigger, CollapsibleContent } from \"@/components/starwind/collapsible\";",
   },
+  "Starwind UI Color Picker Import": {
+    "scope": "typescript",
+    "prefix": "starwind-color-picker-import",
+    "description": "Starwind UI color picker import",
+    "body": "import { ColorPicker } from \"@/components/starwind/color-picker\";",
+  },
   "Starwind UI Combobox Import": {
     "scope": "typescript",
     "prefix": "starwind-combobox-import",
     "description": "Starwind UI combobox import",
     "body": "import { Select, SelectContent, SelectGroup, SelectItem, SelectSearch, SelectTrigger, SelectValue } from \"@/components/starwind/select\";",
+  },
+  "Starwind UI Context Menu Import": {
+    "scope": "typescript",
+    "prefix": "starwind-context-menu-import",
+    "description": "Starwind UI context menu import",
+    "body": "import { ContextMenu, ContextMenuContent, ContextMenuGroup, ContextMenuItem, ContextMenuSeparator, ContextMenuShortcut, ContextMenuSub, ContextMenuSubContent, ContextMenuSubTrigger, ContextMenuTrigger } from \"@/components/starwind/context-menu\";",
   },
   "Starwind UI Dialog Import": {
     "scope": "typescript",
@@ -133,6 +145,12 @@
     "prefix": "starwind-dropzone-import",
     "description": "Starwind UI dropzone import",
     "body": "import { Dropzone, DropzoneFilesList, DropzoneLoadingIndicator, DropzoneUploadIndicator } from \"@/components/starwind/dropzone\";",
+  },
+  "Starwind UI Hover Card Import": {
+    "scope": "typescript",
+    "prefix": "starwind-hover-card-import",
+    "description": "Starwind UI hover card import",
+    "body": "import { HoverCard, HoverCardContent, HoverCardTrigger } from \"@/components/starwind/hover-card\";",
   },
   "Starwind UI Image Import": {
     "scope": "typescript",
@@ -205,6 +223,12 @@
     "prefix": "starwind-radio-group-import",
     "description": "Starwind UI radio group import",
     "body": "import { RadioGroup, RadioGroupItem } from \"@/components/starwind/radio-group\";",
+  },
+  "Starwind UI Scroll Area Import": {
+    "scope": "typescript",
+    "prefix": "starwind-scroll-area-import",
+    "description": "Starwind UI scroll area import",
+    "body": "import { ScrollArea, ScrollBar } from \"@/components/starwind/scroll-area\";",
   },
   "Starwind UI Select Import": {
     "scope": "typescript",
