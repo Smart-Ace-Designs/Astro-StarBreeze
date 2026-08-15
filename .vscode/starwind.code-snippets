@@ -177,7 +177,7 @@
     "scope": "typescript",
     "prefix": "starwind-navigation-menu-import",
     "description": "Starwind UI navigation menu import",
-    "body": "import { NavigationMenu, NavigationMenuContent, NavigationMenuItem, NavigationMenuLink, NavigationMenuList, NavigationMenuTrigger, NavigationMenuTriggerStyle } from \"@/components/starwind/navigation-menu\";",
+    "body": "import { NavigationMenu, NavigationMenuContent, NavigationMenuItem, NavigationMenuLink, NavigationMenuList, NavigationMenuTrigger, navigationMenuTriggerStyle } from \"@/components/starwind/navigation-menu\";",
   },
   "Starwind UI Pagination Import": {
     "scope": "typescript",
