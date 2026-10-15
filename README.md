@@ -83,7 +83,6 @@ After deploying the Astro **Star Breeze** template you will see the following fi
 ├── .prettierrc.mjs
 ├── AGENTS.md
 ├── astro.config.mjs
-├── CLAUDE.md
 ├── package.json
 ├── README.md
 ├── starwind.config.json
