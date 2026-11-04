@@ -11,8 +11,8 @@ The template includes:
 - An initial Astro project structure
 - Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/)
 - Astro [Aliases](https://docs.astro.build/en/guides/imports/#aliases)
-- [Starwind UI 3](https://starwind.dev/)
-- [Tailwind CSS 4](https://tailwindcss.com/)
+- [Starwind UI](https://starwind.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Prettier](https://prettier.io/)
 - Default _.vscode_ files to properly handle Tailwind CSS, recommended extensions, and default Prettier formatters
 - A default _MainLayout.astro_ layout file
