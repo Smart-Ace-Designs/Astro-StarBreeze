@@ -27,7 +27,7 @@ The template includes:
 ### npm
 
 ```sh
-npm create astro@latest -- --template smart-ace-designs/astro-starbreeze project-name
+npm create astro@latest -q -- --template smart-ace-designs/astro-starbreeze project-name
 ```
 
 ### bun
