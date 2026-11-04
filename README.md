@@ -19,8 +19,8 @@ The template includes:
 - A default _starwind.css_ file
 - A default _starwind.config.json_ file with `neutral` base color
 - A default _starwind.code-snippets_ VS Code compatible editor project level snippets file
-- A blank _index.astro_ page
 - A blank _README.md_ file
+- A blank _index.astro_ page
 - The `dev` script set to `"astro dev --open"`
 
 ## Deployment Methods
