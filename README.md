@@ -2,24 +2,25 @@
 
 # Astro Template: Star Breeze
 
-Astro **Star Breeze** is an opinionated [Astro 7](https://astro.build/) starter template with built-in support for Starwind UI 3, Tailwind CSS 4, Prettier, view transitions, and aliases.
+Astro **Star Breeze** is an opinionated [Astro](https://astro.build/) starter template with built-in support for Starwind UI, Tailwind CSS, Prettier, view transitions, and aliases.
 
-Using `create astro@latest` provides everything you need to create a basic Astro 7 application. However, it is missing a few useful items that you might find yourself manually adding to every new Astro 7 project. The **Star Breeze** template was created to automatically include these items as well as support for Starwind UI 3. This provides a great starting point for a new Astro 7 project with Tailwind 4 and Starwind UI 3.
+Using `create astro@latest` provides everything you need to create a basic Astro application. However, it is missing a few useful items that you might find yourself manually adding to every new Astro project. The **Star Breeze** template was created to automatically include these items as well as support for Starwind UI. This provides a great starting point for a new Astro project with Tailwind and Starwind UI.
 
 The template includes:
 
-- An initial Astro 7 project structure
+- An initial Astro project structure
 - Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/)
 - Astro [Aliases](https://docs.astro.build/en/guides/imports/#aliases)
 - [Starwind UI 3](https://starwind.dev/)
 - [Tailwind CSS 4](https://tailwindcss.com/)
 - [Prettier](https://prettier.io/)
+- Default _.vscode_ files to properly handle Tailwind CSS, recommended extensions, and default Prettier formatters
 - A default _MainLayout.astro_ layout file
 - A default _starwind.css_ file
 - A default _starwind.config.json_ file with `neutral` base color
 - A default _starwind.code-snippets_ VS Code compatible editor project level snippets file
-- Default _.vscode_ files to properly handle Tailwind CSS, recommended extensions, and default Prettier formatters
 - A blank _index.astro_ page
+- A blank _README.md_ file
 - The `dev` script set to `"astro dev --open"`
 
 ## Deployment Methods
