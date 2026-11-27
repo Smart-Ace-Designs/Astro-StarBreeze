@@ -65,6 +65,15 @@
     "description": "Starwind UI carousel import",
     "body": "import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from \"@/components/starwind/carousel\";",
   },
+  "Starwind UI Chart Import": {
+    "scope": "typescript,javascript",
+    "include": [
+      "**/*.astro"
+    ],
+    "prefix": "starwind-chart",
+    "description": "Starwind UI (bar) chart import",
+    "body": "import { ChartBar, ChartContainer, ChartGrid, ChartLegend, ChartTooltip, ChartTooltipContent, ChartXAxis, ChartYAxis } from \"@/components/starwind/chart\";",
+  },
   "Starwind UI Checkbox Import": {
     "scope": "typescript",
     "prefix": "starwind-checkbox-import",
