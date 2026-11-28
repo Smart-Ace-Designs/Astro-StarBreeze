@@ -72,7 +72,10 @@
     ],
     "prefix": "starwind-chart",
     "description": "Starwind UI (bar) chart import",
-    "body": "import { ChartBar, ChartContainer, ChartGrid, ChartLegend, ChartXAxis, ChartYAxis } from \"@/components/starwind/chart\";",
+    "body": [
+      "import type { ChartConfig } from \"@/components/starwind/chart\";",
+      "import { ChartBar, ChartContainer, ChartGrid, ChartLegend, ChartXAxis, ChartYAxis } from \"@/components/starwind/chart\";"
+    ]
   },
   "Starwind UI Checkbox Import": {
     "scope": "typescript",
